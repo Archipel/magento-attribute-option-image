@@ -74,4 +74,13 @@
             </controller_action_layout_render_before_adminhtml_catalog_product_attribute_edit>
         </events>
     </adminhtml>
+    <frontend>
+		<layout>
+			<updates>
+				<attributeoptionimage>
+					<file>attributeoptionimage.xml</file>
+				</attributeoptionimage>
+			</updates>
+		</layout>
+    </frontend>
 </config>
